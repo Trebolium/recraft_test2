@@ -1,0 +1,14 @@
+# Input/output data -- generated or downloaded, not source
+test_data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Claude Code local-only state (not shared project config)
+.claude/settings.local.json
+.claude/.cc-writes/
